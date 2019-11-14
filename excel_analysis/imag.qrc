@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="imag">
+    <file>图标-01.png</file>
+    <file>图标-02.png</file>
+    <file>图标-03.png</file>
+    <file>图标-04.png</file>
+    <file>图标-05.png</file>
+    <file>图标-06.png</file>
+    <file>图标-07.png</file>
+  </qresource>
+</RCC>
